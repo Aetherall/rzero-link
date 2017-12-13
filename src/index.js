@@ -1,0 +1,1 @@
+export { default, LinkComponent } from './link'
